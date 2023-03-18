@@ -1,4 +1,4 @@
-<h3 align="center">Junior Full Stack Devoloper</h3>
+<h3 align="center">Junior Front End Devoloper & UI/UX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafia9005&label=Profile%20views&color=0e75b6&style=flat" alt="rafia9005" /> </p>
 
