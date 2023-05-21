@@ -1,4 +1,5 @@
-<img src="https://media.tenor.com/ldDoV7iwmkgAAAAi/kurukuru-kururing.gif">
+![kurukuru-kururing](https://github.com/rafia9005/rafia9005/assets/70046808/2ce15b0a-9c99-4796-a908-ac30894f5b62)
+
 
 <h3 align="center">Full Stack Devoloper & UI/UX</h3>
 
