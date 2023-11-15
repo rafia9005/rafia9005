@@ -2,14 +2,21 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/gofiber/fiber/v2"
 	"net/http"
 )
 
-func main() {
-	r := gin.Default()
+type FullStackDeveloper struct {
+	Nama       string `json:"nama"`
+	Posisi     string `json:"posisi"`
+	Pendidikan string `json:"pendidikan"`
+	Site       string `json:"site"`
+}
 
-	r.GET("/profil", func(c *gin.Context) {
+func main() {
+	app := fiber.New()
+
+	app.Get("/profil", func(c *fiber.Ctx) error {
 		fullStackDeveloper := FullStackDeveloper{
 			Nama:       "Ahmad Rafi",
 			Posisi:     "Full Stack Developer",
@@ -17,11 +24,8 @@ func main() {
 			Site:       "www.rafii.site",
 		}
 
-		c.JSON(http.StatusOK, gin.H{
-			"profil": fullStackDeveloper,
-		})
+		return c.JSON(fullStackDeveloper)
 	})
 
-	r.Run(":8080")
+	app.Listen(":8080")
 }
-
