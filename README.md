@@ -1,6 +1,4 @@
-<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/portofolio-rafii.site-white?style=flat&logo=email"></a>
-<br>
-**`(Full-stack Web Developer)`**
+**`Full-Stack Developer & Content Creator`**
 ### Language
 
 ![Javascript](https://img.shields.io/badge/Javascript-white?logo=javascript)
