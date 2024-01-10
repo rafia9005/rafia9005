@@ -19,7 +19,13 @@
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-white?logo=amazonaws&logoColor=orange)
+![Azure](https://img.shields.io/badge/Microsot_Azure-white?logo=microsoftazure&logoColor=blue)
+![Oracle](https://img.shields.io/badge/Oracle-white?logo=oracle&logoColor=red)
 
+### Other
+![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?logo=mongodb)
+![Vercel](https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=black)
 
 ```python
 print("\nImportance of Being a Full-Stack Developer:")
