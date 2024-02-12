@@ -1,4 +1,4 @@
-**`Full-Stack Developer & Content Creator`**
+**`Full-Stack Developer & Free Lancer`**
 ### Language
 
 ![Javascript](https://img.shields.io/badge/Javascript-white?logo=javascript)
