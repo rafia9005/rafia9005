@@ -1,10 +1,17 @@
 a Full-Stack Developer who is still 16 years old.
 
 ```python
-import os
+class Data:
+    def __init__(self, name, email):
+        self.name = name
+        self.email = email
 
-os.system("pkill all")
-print("\nImportance of Being a Full-Stack Developer:")
-for i, point in enumerate(importance, start=1):
-    print(f"{i}. {point}")
+    def Data(self):
+        print('nama saya : ', self.name)
+        print('email saya : ', self.email)
+
+
+data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
+
+data.Data()
 ```
