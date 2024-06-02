@@ -16,4 +16,3 @@ data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
 
 data.Data()
 ```
-
