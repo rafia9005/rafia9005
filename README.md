@@ -1,4 +1,4 @@
-![4-loli](https://github.com/rafia9005/rafia9005/assets/70046808/9f5e67f9-e9e8-4c40-89b1-b8666e77c7cb)
+
 ## Hi, everyone 👋
 ```python
 class Data:
