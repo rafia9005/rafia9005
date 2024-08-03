@@ -15,5 +15,3 @@ data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
 
 data.Data()
 ```
-[03/08, 22:06] +62 812-3306-8194: https://rahasiakeajaibandoa.myr.id/pl/audio-terapi-luka-batin
-[03/08, 22:06] +62 812-3306-8194: https://rahasiakeajaibandoa.myr.id/pl/audio-mahabbah-program-magnet-cinta
