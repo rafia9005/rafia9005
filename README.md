@@ -1,17 +1,6 @@
-
 ## Hi, everyone 👋
-```python
-class Data:
-    def __init__(self, name, email):
-        self.name = name
-        self.email = email
 
-    def Data(self):
-        print('nama saya : ', self.name)
-        print('email saya : ', self.email)
-
-
-data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
-
-data.Data()
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafia9005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafia9005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
