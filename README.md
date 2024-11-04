@@ -8,7 +8,3 @@
 
 ### 🎓 Education
 I am currently studying at **Malang State Vocational High School 6** with a specialization in **Application Network Information System**. My education is providing me with a solid foundation in software development and design principles.
-
----
-
-I'm excited to continue my journey in tech and make a positive impact through my work!
