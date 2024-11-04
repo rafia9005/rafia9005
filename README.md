@@ -1,26 +1,19 @@
-```python
-class AboutMe:
-    def __init__(self, name, role, age, experience, education):
-        self.name = name
-        self.role = role
-        self.age = age
-        self.experience = experience
-        self.education = education
+# About Me
 
-    def introduce_yourself(self):
-        intro = f"Hi, my name is {self.name}. I am a {self.role}."
-        details = f"I am {self.age} years old with {self.experience} of experience."
-        edu = f"I studied {self.education['jurusan']} at {self.education['school']}."
-        return f"{intro}\n{details}\n{edu}"
+👋 Hello! I'm **Ahmad Rafi'i**, a passionate **Full Stack Developer** with **2 years of experience** in building dynamic and responsive web applications.
 
-name = "Ahmad Rafi'i"
-role = "Full Stack Developer"
-age = "16 years old"
-experience = "2 years"
-education = {
-    "school": "SMKN 6 Malang",
-    "jurusan": "SIJA (SISTEM INFORMASI JARINGAN APLIKASI)"
-}
+### 🚀 Skills
+- **Languages:** Go, Python, Lua, JavaScript, TypeScript, PHP
+- **Frameworks:** NestJS, Next.js, Laravel, Go Fiber, React.js, Vue.js, Svelte, Express, Hono
+- **Databases:** MySQL, MongoDB, Firebase, PostgreSQL
+- **Tools:** Git, Docker, Vim
 
-developer = AboutMe(name, role, age, experience, education)
-```
+### 🎓 Education
+I am currently studying at **Malang State Vocational High School 6** with a specialization in **Application Network Information System**. My education is providing me with a solid foundation in software development and design principles.
+
+### 🌟 What I Love
+I enjoy creating elegant user interfaces and developing efficient back-end systems. I'm always eager to learn new technologies and improve my skills. Whether it's collaborating on a team project or working independently, I strive to deliver high-quality results.
+
+---
+
+I'm excited to continue my journey in tech and make a positive impact through my work!
