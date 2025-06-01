@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/86684af0-989f-4c0e-9028-ad0bf202a808" alt="Ahmad Rafi'i" loading="lazy" />
-
 👋 Hello! I'm <strong>Ahmad Rafi'i</strong>, a passionate <strong>Full Stack Developer</strong> with <strong>2 years of experience</strong> in building dynamic and responsive web applications.
 
 ### 🚀 Skills
