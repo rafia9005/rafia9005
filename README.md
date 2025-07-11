@@ -5,6 +5,3 @@
 - <strong>Frameworks:</strong> NestJS, Next.js, Laravel, Go Fiber, React.js, Vue.js, Svelte, Express, Hono  
 - <strong>Databases:</strong> MySQL, MongoDB, Firebase, PostgreSQL  
 - <strong>Tools:</strong> Git, Docker, Vim, Linux  
-
-### 🎓 Education
-I am currently studying at <strong>Malang State Vocational High School 6</strong> with a specialization in <strong>Application Network Information System</strong>. My education is providing me with a solid foundation in software development and design principles.
