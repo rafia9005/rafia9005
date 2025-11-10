@@ -1,7 +1,19 @@
-👋 Hello! I'm <strong>Ahmad Rafi'i</strong>, a passionate <strong>Full Stack Developer</strong> with <strong>2 years of experience</strong> in building dynamic and responsive web applications.
+# 👋 Hello, I'm **Ahmad Rafi'i**
 
-### 🚀 Skills
-- <strong>Languages:</strong> Go, Python, Lua, JavaScript, TypeScript, PHP  
-- <strong>Frameworks:</strong> NestJS, Next.js, Laravel, Go Fiber, React.js, Vue.js, Svelte, Express, Hono  
-- <strong>Databases:</strong> MySQL, MongoDB, Firebase, PostgreSQL  
-- <strong>Tools:</strong> Git, Docker, Vim, Linux  
+I'm a **Full Stack Developer** with over **2 years of experience** building dynamic, high-performance, and user-focused web applications.  
+I love working with modern technologies, crafting clean architectures, and optimizing developer workflows — especially in Linux environments.
+
+---
+
+### 🚀 Tech Stack
+
+- **Languages:** Go, Python, Lua, JavaScript, TypeScript, PHP  
+- **Frameworks:** NestJS, Next.js, Laravel, Go Fiber, React.js, Vue.js, Svelte, Express, Hono  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
+- **Tools & DevOps:** Git, Docker, Vim, Linux  
+
+---
+
+🔐 **PGP Key:** [View Public Key](https://raw.githubusercontent.com/rafia9005/rafia9005/refs/heads/main/public_key.pgp)
+
+> _"Clean code, clear mind."_ ✨
