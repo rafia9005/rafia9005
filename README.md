@@ -3,7 +3,6 @@
 I'm a **Full Stack Developer** with over **2 years of experience** building dynamic, high-performance, and user-focused web applications.  
 I love working with modern technologies, crafting clean architectures, and optimizing developer workflows — especially in Linux environments.
 
----
 
 ### 🚀 Tech Stack
 
@@ -11,8 +10,6 @@ I love working with modern technologies, crafting clean architectures, and optim
 - **Frameworks:** NestJS, Next.js, Laravel, Go Fiber, React.js, Vue.js, Svelte, Express, Hono  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
 - **Tools & DevOps:** Git, Docker, Vim, Linux  
-
----
 
 🔐 **PGP Key:** [View Public Key](https://raw.githubusercontent.com/rafia9005/rafia9005/refs/heads/main/public_key.pgp)
 
