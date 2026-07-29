@@ -1,8 +1,9 @@
-# 👋 Hello, I'm **Ahmad Rafi'i**
+# 👋 Ahmad Rafi'i
 
-I'm a **Full Stack Developer** with over **4 years of experience** building dynamic, high-performance, and user-focused web applications.  
-I love working with modern technologies, crafting clean architectures, and optimizing developer workflows — especially in Linux environments.
+**Full Stack Developer** · 4+ years · Linux enthusiast
 
-🔐 **PGP Key:** [View Public Key](https://raw.githubusercontent.com/rafia9005/rafia9005/refs/heads/main/public_key.pgp)
+Building fast, clean, user-focused web apps. Love modern tech, clean architecture, solid DX.
 
-> _"Clean code, clear mind."_ ✨
+> _"Clean code, clear mind."_
+
+🔐 [PGP Public Key](https://raw.githubusercontent.com/rafia9005/rafia9005/refs/heads/main/public_key.pgp)
