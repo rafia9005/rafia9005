@@ -1,5 +1,3 @@
-# 👋 Ahmad Rafi'i
-
 **Full Stack Developer** · 4+ years · Linux enthusiast
 
 Building fast, clean, user-focused web apps. Love modern tech, clean architecture, solid DX.
